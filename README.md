@@ -1,2 +1,7 @@
 # TP3-Programacion-II
-Trabajo practico n3 - Programacion II - UTN
+
+PROGRAMACIÓN II
+
+Trabajo Práctico N.º 3: Introducción a la Programación Orientada a Objetos
+
+Alumno: Bayurk Mara Valentina
